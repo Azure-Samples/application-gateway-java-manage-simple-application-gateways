@@ -7,8 +7,9 @@ author: selvasingh
 #Getting Started with Network - Manage Simple Application Gateway - in Java #
 
 
-      Main entry point.
-      @param args parameters
+      Main function which runs the actual sample.
+      @param azure instance of the azure client
+      @return true if sample runs successfully
      
 
 ## Running this Sample ##
