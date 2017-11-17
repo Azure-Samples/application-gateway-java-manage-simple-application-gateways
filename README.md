@@ -1,7 +1,7 @@
 ---
 services: Network
 platforms: java
-author: selvasingh
+author: martinsawicki
 ---
 
 ## Getting Started with Network - Manage Simple Application Gateway - in Java ##
