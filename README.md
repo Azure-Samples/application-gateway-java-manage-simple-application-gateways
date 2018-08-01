@@ -1,5 +1,5 @@
 ---
-services: virtual-network
+services: Network
 platforms: java
 author: martinsawicki
 ---
