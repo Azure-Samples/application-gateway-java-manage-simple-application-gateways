@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Network
-platforms: java
-author: yaohaizh
+extensions:
+- services: Network
+- platforms: java
 ---
 
-## Getting Started with Network - Manage Simple Application Gateway - in Java ##
+# Getting Started with Network - Manage Simple Application Gateway - in Java #
 
 
   Azure network sample for managing application gateways.
