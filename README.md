@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Network
-- platforms: java
+description: "Azure network sample for managing application gateways."
+urlFragment: application-gateway-java-manage-simple-application-gateways
 ---
 
 # Getting Started with Network - Manage Simple Application Gateway - in Java #
