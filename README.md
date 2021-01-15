@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-  services: Network
-  platforms: java
+- services: Network
+- platforms: java
 ---
 
 # Getting Started with Network - Manage Simple Application Gateway - in Java #
